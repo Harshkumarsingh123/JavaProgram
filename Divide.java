@@ -10,7 +10,6 @@ class Divide {
         }
         return result;
     }
-
     public static void main(String[] args) {
         int dividend = 0;
         int divisor = 1;
