@@ -47,8 +47,7 @@ class RomanToInt
     public static void main(String [] args)
     {
         String s="XIX";
-        RomanToInt obj=new RomanToInt();
-        System.out.println(obj.romanToInt(s));
+        romanToInt(s);
 
     }
 }
